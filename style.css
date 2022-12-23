@@ -1,3 +1,14 @@
 :root {
     --theme: #1234;
 }
+
+
+.title {
+    text-align: center;
+    margin: 50px;
+    border-bottom: 10px solid black;
+}
+
+h1 {
+    font-size: 70px;
+}
