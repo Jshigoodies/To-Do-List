@@ -6,9 +6,43 @@
 .title {
     text-align: center;
     margin: 50px;
-    border-bottom: 10px solid black;
 }
 
 h1 {
     font-size: 70px;
+}
+
+h2 {
+    padding: 20px;
+    padding-right: 0px;
+}
+
+/* don't forget to make a new branch for each issue */
+
+.description {
+    text-align: center;
+}
+
+.time {
+    text-align: center;
+}
+
+.top {
+    border-bottom: 10px solid black;
+}
+
+.to-do-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.item-input {
+    padding: 80px;
+    padding-right: 800px;
+    text-align: left;
+}
+
+.save-button {
+    padding: 80px;
 }
