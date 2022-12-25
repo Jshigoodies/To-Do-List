@@ -45,4 +45,13 @@ h2 {
 
 .save-button {
     padding: 80px;
+    background-color: lightskyblue;
+    cursor: pointer;
+    border: none;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.save-button:hover {
+    background-color: darkblue;
 }
